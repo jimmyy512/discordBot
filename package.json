@@ -1,0 +1,15 @@
+{
+  "name": "DiceBot",
+  "version": "1.0.0",
+  "description": "DiceBot",
+  "main": "bot.js",
+  "author": "Double",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.2.0",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "opusscript": "0.0.7",
+    "winston": "^3.2.1",
+    "ytdl-core": "^2.1.1"
+  }
+}
